@@ -49,7 +49,7 @@ cd temperature-control-system
 ## 👥 Developer
 **Addis Ababa Science and Technology University (AASTU)**  
 *College of Engineering | Dept. of Electromechanical Engineering*
-*By Desalegn Lulie*
-* [Your Name] - [Your ID]
+
+* By Desalegn Lulie
 
 **Course:** Embedded Systems
