@@ -31,7 +31,7 @@ The goal of this project is to design a closed-loop temperature control system. 
 ## 🚀 How to Run the Simulation
 
 **1. Clone the repository:**
-git clone https://github.com/yourusername/temperature-control-system.git
+git clone https://github.com/desalegnlulie-alt/temperature-control-system.git
 cd temperature-control-system
 
 **2. Open the Code:**
